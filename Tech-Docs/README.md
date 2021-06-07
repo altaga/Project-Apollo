@@ -1,6 +1,5 @@
 # Project-Apollo
 
-
 <img src="./Images/logo.png" width="1000">
 
 # Table of Contents:
@@ -165,9 +164,31 @@ Los datos que veremos seran los mismos que en [Check product](#check-product) si
 
 <img src="./Images/iot.png">
 
-
+Las especificaciones del sensor IoT estan en la seccion [Device](#device).
 
 # Device:
+
+Para el dispositivo IoT utilizamos una Pycom Fipy Board, la cual tiene LTE, lo cual nos permite mantener una conectividad continua con AWS IoT.
+
+https://pycom.io/product/fipy/
+
+<img src="./Images/pycom.png">
+
+A la board le colocamos a modo de shield los sensores para evitar desconexiones, ademas de una bateria y una case.
+
+<img src="./Images/outsidecase.png">
+
+Todo lo colocamos en el interior de la case.
+
+<img src="./Images/insidecase.png">
+
+Finalmente el device luce de la siguiente forma.
+
+<img src="./Image/../Images/devicefinal.png">
+
+Todos los datos que manda el device son recibidos en la plataforma de Pycom Pybytes y estas mandadas a AWS IoT mediante su integracion.
+
+<img src="./Image/../Images/devicefinal.png">
 
 # Demo:
 
