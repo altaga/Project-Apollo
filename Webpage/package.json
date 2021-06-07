@@ -1,0 +1,61 @@
+{
+  "name": "illegal-logging-detector",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jsqr": "^1.3.1",
+    "prop-types": "^15.7.2",
+    "webrtc-adapter": "^7.7.0",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@react-icons/all-files": "^4.1.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "aws-iot-device-sdk": "^2.2.6",
+    "aws-sdk": "^2.897.0",
+    "bootstrap": "^4.6.0",
+    "bs58": "^4.0.1",
+    "chart.js": "^3.3.2",
+    "mqtt": "^4.2.6",
+    "ol": "^6.5.0",
+    "ol-ext": "^3.2.2",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.3",
+    "react-device-detect": "^1.17.0",
+    "react-dom": "^17.0.2",
+    "react-qr-reader": "^2.2.1",
+    "react-qr-scanner": "^1.0.0-alpha.7",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "reactstrap": "^8.9.0",
+    "unirest": "^0.6.0",
+    "victory": "^35.8.4",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "react-scripts build && aws s3 sync build/ s3://solana-apollo --acl public-read && aws cloudfront create-invalidation --distribution-id E1K8EL11XJZKE0 --paths \"/*\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

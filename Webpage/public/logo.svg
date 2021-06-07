@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="195.57744"
+   width="195.53017"
+   sodipodi:docname="logo.svg"
+   id="svg112"
+   stroke-miterlimit="10"
+   stroke-linecap="square"
+   stroke="none"
+   fill="none"
+   viewBox="0 0 195.53017 195.57744"
+   version="1.1">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs116" />
+  <sodipodi:namedview
+     inkscape:current-layer="g110"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="221.01541"
+     inkscape:cx="132.60594"
+     inkscape:zoom="1.25"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview114"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <clipPath
+     id="gdd8c898b8d_0_33.0">
+    <path
+       id="path2"
+       clip-rule="nonzero"
+       d="M 0,0 H 960 V 540 H 0 Z" />
+  </clipPath>
+  <g
+     transform="translate(-29.106038,-23.409977)"
+     id="g110"
+     clip-path="url(#gdd8c898b8d_0_33.0)">
+    <path
+       id="path5"
+       fill-rule="evenodd"
+       d="m -25.6,631.2 h 960 v 540 h -960 z"
+       fill="#000000" />
+    <defs
+       id="defs12">
+      <linearGradient
+         y2="17.394718"
+         x2="24.616846"
+         y1="23.382797"
+         x1="30.604813"
+         spreadMethod="pad"
+         gradientTransform="matrix(8.4683439,0,0,8.4683439,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.1">
+        <stop
+           id="stop7"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop9"
+           stop-color="#009b6f"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.1)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path14"
+       fill-rule="evenodd"
+       d="m 100.9579,74.01627 16.17662,-49.606293 h 19.45779 l 16.17662,49.606293 z"
+       fill="url(#gdd8c898b8d_0_33.1)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path16"
+       fill-rule="evenodd"
+       d="m 100.9579,74.01627 16.17662,-49.606293 h 19.45779 l 16.17662,49.606293 z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs23">
+      <linearGradient
+         y2="34.603706"
+         x2="18.775957"
+         y1="25.640072"
+         x1="18.77599"
+         spreadMethod="pad"
+         gradientTransform="matrix(8.9636345,0,0,8.9636345,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.2">
+        <stop
+           id="stop18"
+           stop-color="#3c78d8"
+           offset="0.0" />
+        <stop
+           id="stop20"
+           stop-color="#00ffff"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.2)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path25"
+       fill-rule="evenodd"
+       d="m 86.70112,121.20174 v 0 c 0,-22.187057 17.98616,-40.173233 40.17322,-40.173233 v 0 c 10.6546,0 20.87282,4.232529 28.40677,11.766464 7.53393,7.533949 11.76646,17.752169 11.76646,28.406769 v 0 c 0,22.18707 -17.98616,40.17322 -40.17323,40.17322 v 0 c -22.18706,0 -40.17322,-17.98615 -40.17322,-40.17322 z"
+       fill="url(#gdd8c898b8d_0_33.2)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path27"
+       fill-rule="evenodd"
+       d="m 86.70112,121.20174 v 0 c 0,-22.187057 17.98616,-40.173233 40.17322,-40.173233 v 0 c 10.6546,0 20.87282,4.232529 28.40677,11.766464 7.53393,7.533949 11.76646,17.752169 11.76646,28.406769 v 0 c 0,22.18707 -17.98616,40.17322 -40.17323,40.17322 v 0 c -22.18706,0 -40.17322,-17.98615 -40.17322,-40.17322 z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs34">
+      <linearGradient
+         y2="-46.371864"
+         x2="-24.618549"
+         y1="-40.383785"
+         x1="-18.630581"
+         spreadMethod="pad"
+         gradientTransform="matrix(-8.4683443,0,0,-8.4683443,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.3">
+        <stop
+           id="stop29"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop31"
+           stop-color="#009b6f"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.3)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path36"
+       fill-rule="evenodd"
+       d="m 152.78434,168.3811 -16.17661,49.60632 H 117.14994 L 100.97332,168.3811 Z"
+       fill="url(#gdd8c898b8d_0_33.3)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path38"
+       fill-rule="evenodd"
+       d="m 152.78434,168.3811 -16.17661,49.60632 H 117.14994 L 100.97332,168.3811 Z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs45">
+      <linearGradient
+         y2="-39.11972"
+         x2="31.878922"
+         y1="-33.130711"
+         x1="37.867821"
+         spreadMethod="pad"
+         gradientTransform="matrix(0,8.4696587,-8.4696587,0,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.4">
+        <stop
+           id="stop40"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop42"
+           stop-color="#009b6f"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.4)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path47"
+       fill-rule="evenodd"
+       d="m 174.37638,95.10862 49.25983,16.06364 v 20.06171 l -49.25983,16.06363 z"
+       fill="url(#gdd8c898b8d_0_33.4)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path49"
+       fill-rule="evenodd"
+       d="m 174.37638,95.10862 49.25983,16.06364 v 20.06171 l -49.25983,16.06363 z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs56">
+      <linearGradient
+         y2="10.108027"
+         x2="-31.877762"
+         y1="16.097034"
+         x1="-25.888863"
+         spreadMethod="pad"
+         gradientTransform="matrix(0,-8.4696596,8.4696596,0,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.5">
+        <stop
+           id="stop51"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop53"
+           stop-color="#009b6f"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.5)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path58"
+       fill-rule="evenodd"
+       d="M 79.36588,147.28875 30.106038,131.22512 V 111.16341 L 79.36588,95.099783 Z"
+       fill="url(#gdd8c898b8d_0_33.5)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path60"
+       fill-rule="evenodd"
+       d="M 79.36588,147.28875 30.106038,131.22512 V 111.16341 L 79.36588,95.099783 Z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs67">
+      <linearGradient
+         y2="-8.0860786"
+         x2="42.928318"
+         y1="-4.1336036"
+         x1="46.880722"
+         spreadMethod="pad"
+         gradientTransform="matrix(5.5546148,5.5895934,-5.5895934,5.5546148,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.6">
+        <stop
+           id="stop62"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop64"
+           stop-color="#00c1ff"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.6)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path69"
+       fill-rule="evenodd"
+       d="m 157.94155,65.05857 25.06129,-12.821152 12.68058,12.760406 -12.73398,25.226105 z"
+       fill="url(#gdd8c898b8d_0_33.6)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path71"
+       fill-rule="evenodd"
+       d="m 157.94155,65.05857 25.06129,-12.821152 12.68058,12.760406 -12.73398,25.226105 z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs78">
+      <linearGradient
+         y2="-18.906742"
+         x2="-43.022789"
+         y1="-14.954267"
+         x1="-39.070385"
+         spreadMethod="pad"
+         gradientTransform="matrix(-5.5546149,-5.5895936,5.5895936,-5.5546149,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.7">
+        <stop
+           id="stop73"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop75"
+           stop-color="#00c1ff"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.7)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path80"
+       fill-rule="evenodd"
+       d="M 95.80062,177.87783 70.739325,190.69897 58.058768,177.93856 70.792746,152.71245 Z"
+       fill="url(#gdd8c898b8d_0_33.7)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path82"
+       fill-rule="evenodd"
+       d="M 95.80062,177.87783 70.739325,190.69897 58.058768,177.93856 70.792746,152.71245 Z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs89">
+      <linearGradient
+         y2="-56.387753"
+         x2="5.6779242"
+         y1="-52.435276"
+         x1="9.6303272"
+         spreadMethod="pad"
+         gradientTransform="matrix(-5.5546149,5.5895936,-5.5895936,-5.5546149,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.8">
+        <stop
+           id="stop84"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop86"
+           stop-color="#00c1ff"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.8)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path91"
+       fill-rule="evenodd"
+       d="m 182.94767,152.16194 12.73398,25.22611 -12.68057,12.7604 -25.0613,-12.82117 z"
+       fill="url(#gdd8c898b8d_0_33.8)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path93"
+       fill-rule="evenodd"
+       d="m 182.94767,152.16194 12.73398,25.22611 -12.68057,12.7604 -25.0613,-12.82117 z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+    <defs
+       id="defs100">
+      <linearGradient
+         y2="29.397291"
+         x2="-5.5850248"
+         y1="33.34977"
+         x1="-1.6326226"
+         spreadMethod="pad"
+         gradientTransform="matrix(5.5546147,-5.5895934,5.5895934,5.5546147,-81.6,-148.8)"
+         gradientUnits="userSpaceOnUse"
+         id="gdd8c898b8d_0_33.9">
+        <stop
+           id="stop95"
+           stop-color="#c72acf"
+           offset="0.0" />
+        <stop
+           id="stop97"
+           stop-color="#00c1ff"
+           offset="1.0" />
+      </linearGradient>
+    </defs>
+    <path
+       style="fill:url(#gdd8c898b8d_0_33.9)"
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path102"
+       fill-rule="evenodd"
+       d="M 70.79452,89.69623 58.060542,64.470125 70.741099,51.709719 95.802394,64.530871 Z"
+       fill="url(#gdd8c898b8d_0_33.9)" />
+    <path
+       inkscape:export-ydpi="94.244003"
+       inkscape:export-xdpi="94.244003"
+       inkscape:export-filename="C:\Users\VAI\GitHub\Project-Apollo\Webpage\src\logo.png"
+       id="path104"
+       fill-rule="evenodd"
+       d="M 70.79452,89.69623 58.060542,64.470125 70.741099,51.709719 95.802394,64.530871 Z"
+       stroke-linecap="butt"
+       stroke-linejoin="round"
+       stroke-width="2"
+       stroke="#eeff41" />
+  </g>
+</svg>

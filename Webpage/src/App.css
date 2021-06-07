@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+  background-color: #161b19;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.cardColor{
+  background-color: #282d2b;
+}
+
+
+.right {
+  position: relative;
+  right: 0px;
+}
+
+#cropper{
+  width:100%;
+  height:300px;
+  overflow:hidden;
+  margin:0 auto; /* optional - centers the div */
+  border-width: 10px;
+  border-style: solid;
+  border-color: #1dd79b;
+  border-radius: 0.2em/0.2em;
+}
+#cropper div{
+  position:relative;
+  top:-50%;
+  bottom:-50%;
+}
+
+.center {
+  width: 50%;
+  padding: 10px;
+}
+
+.center-qr{
+  display: flex;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #3498db;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
