@@ -6,7 +6,7 @@
 
 ### DApp that seamlessly integrates Internet of Things devices with the Solana blockchain. 
 
-### It includes a provenance service that Allows supply chain participants to collaborate on a transparent and trusted data platform.
+### It includes a provenance service that allows supply chain participants to collaborate on a transparent and trusted data platform.
 
 # Welcome to Apollo
 
@@ -100,7 +100,7 @@ We will accelerate our development and do a private alpha as we need to test thi
 
 ### Closing
 
-In order for IoT to take the next step and solve its problems of scalability and security, it needs solutions such as the one here presented. This solutions explores a niche that is very prevalent in the industry and will be for many years as the availability of developers that can join the two technologies is minuscule.
+In order for IoT to take the next step and solve its problems of scalability and security, it needs solutions such as the one presented here. This solution explores a niche that is very prevalent in the industry and will be for many years as the availability of developers that can join the two technologies is minuscule.
 
 Thank you and hopefully you liked the project!
 
