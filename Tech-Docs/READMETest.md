@@ -73,7 +73,8 @@ Aqui podemos ver como cambio a la camara posterior.
 <hr>
 
 <div style="text-align:justify">
-Escanea cualquiera de los siguientes medicamentos con la plataforma.
+Scan any of the following QR codes with the application.
+
 </div>
 
 <br>
@@ -107,7 +108,7 @@ Escanea cualquiera de los siguientes medicamentos con la plataforma.
 <hr>
 
 <div style="text-align:justify">
-Al escanear cualquiera de los emedicamentos podremos ver todo su trace, en cada punto de entrega donde llego.
+When scanning any of the products, we will be able to see its entire history, at each delivery point.
 </div>
 
 <br>
