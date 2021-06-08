@@ -194,7 +194,7 @@ Finalmente el device luce de la siguiente forma.
 Todos los datos que manda el device son recibidos en la plataforma de Pycom Pybytes y estas mandadas a AWS IoT mediante su integracion.
 
 Video: Click on the image
-[<img src="./Images/banner-video.png">](YTLINK)
+[<img src="./Images/banner-video.png">](https://youtu.be/gEZ4lpxPT-o)
 Sorry github does not allow embed videos.
 
 # Demo:

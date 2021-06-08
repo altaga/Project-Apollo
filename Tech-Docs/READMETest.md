@@ -159,6 +159,3 @@ Si presionamos el hipervinculo debajo de Solana Explorer Link: poremos entrar di
 Aqui un demo sin pausas de como realizar la prueba.
 </div>
 
-Video: Click on the image
-[<img src="./Images/banner-video.png">](YTLINK)
-Sorry github does not allow embed videos.
