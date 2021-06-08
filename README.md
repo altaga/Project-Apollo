@@ -24,6 +24,8 @@ The internet of things has been associated with major cyberattacks, often involv
 
 <img src="https://specials-images.forbesimg.com/imageserve/1127637966/960x0.jpg?fit=scale" width=500>
 
+#### On Scalability
+
 But the main problem is scalability. The two main technological solutions that are rolling right now two solve the problem of congested 4G networks and low coverage of longFi are 5G and mesh networks, if we are gonna employ a blockchain, it has to be one with great speeds and easily scalable or it will not be able to function properly with these two technologies. 
 
 
@@ -38,7 +40,7 @@ Globally, the trade in counterfeit pharmaceuticals is worth up to $200 Billion U
 <img src="https://i.guim.co.uk/img/media/20491572b80293361199ca2fc95e49dfd85e1f42/0_240_5157_3094/master/5157.jpg?width=620&quality=85&auto=format&fit=max&s=769b733a241ddf213f4e32a96bc01c87">
 
 
-#### This is a problem that can be tackled by the union of blockchain and IoT with immutable provenance and tracing solutions. Enter Apollo.
+#### This is a problem that can be tackled by the union of blockchain and IoT with immutable provenance and tracing solutions. Of course we also NEED a scalable and fast blockchain. Enter Apollo.
 
 
 # Solution
