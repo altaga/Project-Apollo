@@ -26,6 +26,21 @@ But the problem is scalability. Apart from communication solutions which are 5G 
 
 Although the market currently has several services such as Ubidots, Sigfox, AWS IoT and quite a lot of incumbents that can connect IoT devices to the Internet, create great UI’s, sensor readings and so forth, It lacks a way or paid service to join this to blockchains. For the current services that can provide an IoT+Blockchain 
 
+# Solution
+## Our PoC for Provenance
+
+
+# What's next for Apollo
+
+## Business Model
+
+
+## Development and Launch
+
+
+# Closing 
+
+
 # References
 
 https://www.lightreading.com/ossbss/verizons-4g-network-one-of-most-congested-in-world---analyst/d/d-id/767842
