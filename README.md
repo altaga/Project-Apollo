@@ -68,7 +68,7 @@ Here are some screen captures:
 
 And here is our own made 4G tracker device with environmental Sensors:
 
-<img src="https://i.ibb.co/k0883mB/devicefinal.png">
+<img src="https://i.ibb.co/KNBGPXS/devicefinal-1.png">
 
 
 #### Check this video for our product DEMO:
@@ -85,7 +85,7 @@ And here is our own made 4G tracker device with environmental Sensors:
 
 ### Business Model
 
-We plan on incorporating the same business model that 
+We plan on incorporating the same business model that Ubidots, AdafruitIO and other incumbents follow, with heavy inspiration also on how the Helium blockchain 
 
 
 ### Development and Launch
