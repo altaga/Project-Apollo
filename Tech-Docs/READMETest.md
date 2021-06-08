@@ -73,7 +73,8 @@ Here we can see how I change to the rear camera.
 <hr>
 
 <div style="text-align:justify">
-Scan any of the following QR codes with the application.
+Scan any of the following QR codes with the application. 
+  #### Click on the arrows!
 
 </div>
 
