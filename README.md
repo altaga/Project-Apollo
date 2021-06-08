@@ -17,6 +17,8 @@
 ### To test the product follow these instructions (Over here Tech judges!):
 https://github.com/altaga/Project-Apollo/blob/main/Tech-Docs/READMETest.md
 
+<hr>
+
 # Welcome to Apollo
 
 The Internet of Things is a great mover that connects people, places, and products.
