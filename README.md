@@ -60,17 +60,31 @@ This is the architecture of the system:
 
 <img src="https://raw.githubusercontent.com/altaga/Project-Apollo/main/Tech-Docs/Images/plat.png">
 
+Here are some screen captures:
 
 
+And here is our own made 4G tracker device with environmental Sensors:
+
+
+
+#### Check this video for our product DEMO:
+
+[<img src="https://gonextpage.com/wp-content/uploads/2017/07/click-here-button.png">](https://www.youtube.com/watch?v=62LNl-Jql00)
+
+#### And this one for our Sensor demo:
+
+[<img src="https://gonextpage.com/wp-content/uploads/2017/07/click-here-button.png">](https://www.youtube.com/watch?v=msxZygN1YrA)
 
 
 
 # What's next for Apollo
 
-## Business Model
+### Business Model
+
+We plan on incorporating the same business model that 
 
 
-## Development and Launch
+### Development and Launch
 
 # Team
 
