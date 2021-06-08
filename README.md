@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://d28h6fr0bvs87o.cloudfront.net/landing) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/)
+
 # Project-Apollo
 
 <img src="https://raw.githubusercontent.com/altaga/Project-Apollo/main/Tech-Docs/Images/logo.png">
@@ -43,11 +45,14 @@ Globally, the trade in counterfeit pharmaceuticals is worth up to $200 Billion U
 
 Apollo is a way to seamlessly connect IoT devices to the Solana blockchain, that provides extra services like provenance and tracing for supply chain applications.
 
-Video HYPE!
+Click to see the video:
+
 
 ## Our PoC for Provenance
 
-You can see extensive documentation of the build process in this part of our Repository: 
+You can see extensive documentation of the build process in this part of our Repository: https://github.com/altaga/Project-Apollo/blob/main/Tech-Docs/README.md
+
+
 
 
 # What's next for Apollo
@@ -56,6 +61,16 @@ You can see extensive documentation of the build process in this part of our Rep
 
 
 ## Development and Launch
+
+# Team
+
+#### 3 Biomedical Engineers with experience developing IoT and hardware solutions.
+
+[<img src="https://img.shields.io/badge/Luis%20Eduardo-Arevalo%20Oliver-blue">](https://www.linkedin.com/in/luis-eduardo-arevalo-oliver-989703122/)
+
+[<img src="https://img.shields.io/badge/Victor%20Alonso-Altamirano%20Izquierdo-lightgrey">](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-guti%C3%A9rrez-11105a157/)
+
+[<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
 
 
 # Closing 
