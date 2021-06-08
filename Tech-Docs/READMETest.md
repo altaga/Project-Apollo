@@ -12,7 +12,9 @@
 
 Para probar la plataforma deberas entrar entrar desde tu celuar a ella.
 
-https://d28h6fr0bvs87o.cloudfront.net/
+https://d28h6fr0bvs87o.cloudfront.net/landing
+
+Press the demo button.
 
 Dentro de la plataforma tendras que presionar el boton de Check Product!
 
