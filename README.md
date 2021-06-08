@@ -10,7 +10,7 @@
 
 #### Click here to watch our demo video:
 
-[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width: 200>](https://www.youtube.com/watch?v=sUAdnfDavvE)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=sUAdnfDavvE)
 
 #### To test the product follow these instructions (Over here Tech judges!):
 https://github.com/altaga/Project-Apollo/blob/main/Tech-Docs/READMETest.md
