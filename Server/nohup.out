@@ -1,0 +1,5 @@
+
+> helloworld@0.0.1 start /home/ubuntu/apollo
+> ts-node src/client/main.ts
+
+server started at http://localhost:8080
