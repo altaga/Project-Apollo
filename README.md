@@ -62,9 +62,13 @@ This is the architecture of the system:
 
 Here are some screen captures:
 
+<img src="https://raw.githubusercontent.com/altaga/Project-Apollo/main/Tech-Docs/Images/qr-product.png">
+<img src="https://raw.githubusercontent.com/altaga/Project-Apollo/main/Tech-Docs/Images/qr-log.png">
+
 
 And here is our own made 4G tracker device with environmental Sensors:
 
+<img src="https://i.ibb.co/k0883mB/devicefinal.png">
 
 
 #### Check this video for our product DEMO:
