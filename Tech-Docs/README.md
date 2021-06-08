@@ -6,8 +6,6 @@
 
 - [Project-Apollo](#project-apollo)
 - [Table of Contents:](#table-of-contents)
-- [Introduction:](#introduction)
-- [Solution:](#solution)
 - [Diagrams:](#diagrams)
   - [Software:](#software)
   - [Hardware:](#hardware)
