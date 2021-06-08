@@ -27,7 +27,7 @@ But the main problem is scalability. The two main technological solutions that a
 
 Although the market currently has several services such as Ubidots, Sigfox, AWS IoT and quite a lot of incumbents that can connect IoT devices to the Internet, create great UI’s, sensor readings and so forth, it lacks a way or paid service to join this to blockchains. For the current services that can provide an IoT+Blockchain such as Azure and IBM cloud the entry barrier is way too high. We can  make an analogy of trying to do Domotics in the 80's or any Internet of things Devices when there were no cloud providers. That is the current scenario, to be able to do that you need  to be a very proficient developer (really have a team of them) and there is no documentation on how to do that anywhere at hand. 
 
-#### As engineers we can see the NEED for that and the niche 
+#### As engineers we can see the NEED for that and the niche a solution would cover.
 
 ## A problem for our PoC
 
