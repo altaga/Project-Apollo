@@ -17,6 +17,7 @@
   - [Elements:](#elements)
     - [Check product:](#check-product)
     - [Add Trace:](#add-trace)
+    - [Test:](#test)
 - [Device:](#device)
 - [Demo:](#demo)
 
@@ -166,6 +167,10 @@ Los datos que veremos seran los mismos que en [Check product](#check-product) si
 
 Las especificaciones del sensor IoT estan en la seccion [Device](#device).
 
+### Test:
+
+
+
 # Device:
 
 Para el dispositivo IoT utilizamos una Pycom Fipy Board, la cual tiene LTE, lo cual nos permite mantener una conectividad continua con AWS IoT.
@@ -188,8 +193,13 @@ Finalmente el device luce de la siguiente forma.
 
 Todos los datos que manda el device son recibidos en la plataforma de Pycom Pybytes y estas mandadas a AWS IoT mediante su integracion.
 
-<img src="./Image/../Images/devicefinal.png">
+Video: Click on the image
+[<img src="./Images/banner-video.png">](YTLINK)
+Sorry github does not allow embed videos.
 
 # Demo:
 
+Video: Click on the image
+[<img src="./Images/banner-video.png">](YTLINK)
+Sorry github does not allow embed videos.
 
