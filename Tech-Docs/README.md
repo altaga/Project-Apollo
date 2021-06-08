@@ -30,16 +30,16 @@
 
 # Solana Cluster:
 
-El cluster de solana se hizo correr en una maquina virtual de EC2, toda la configuracion y codigo esta en la carpeta Server.
+The solana cluster was run on an EC2 virtual machine, all the configuration and code is in the Server folder.
 
 <img src="./Images/server.png">
 
-Para colocar la informacion en la blockchain utilizamos un on-chain program.
+To place the information on the blockchain we use an on-chain program.
 
-Esta es la Program Account si gustan revisarla:
+This is the Program Account if you like to check it:
 [Eq7k6ETwxnWP2KMdtUdAC5mvUmqCG67XiawFZwfFd8EY](https://explorer.solana.com/address/Eq7k6ETwxnWP2KMdtUdAC5mvUmqCG67XiawFZwfFd8EY?cluster=devnet)
 
-Y para poder interactuar con el y el codigo on-chain se realizo un servidor express con NodeJS, conectado directamente a nuestra API Gateway.
+And in order to interact with it and the on-chain code, an express server was made with NodeJS, directly connected to our API Gateway.
 
     const express = require("express");
     const app = express();
@@ -63,7 +63,7 @@ Y para poder interactuar con el y el codigo on-chain se realizo un servidor expr
       console.log(`server started at http://localhost:${port}`);
     });
 
-Para acceder a el desde la misma API Gateway realizamos un puente entre el servidor y API Gateway.
+To access it from the same API Gateway we make a bridge between the server and API Gateway.
 
     import json
     import http.client
@@ -81,29 +81,29 @@ Para acceder a el desde la misma API Gateway realizamos un puente entre el servi
             'body': json.dumps(data.decode("utf-8"))
         }
 
-Aqui una muestra de el servidor funcionando.
+Here is a sample of the server working.
 
 <img src="./Images/serv-test.png">
 
 ## Transaction Signatures:
 
-En este caso estamos asignando un address a cada medicamento con el fin de poderlo trazar a travez de la blockchain.
+In this case we are assigning an address to each drug in order to trace it through the blockchain.
 
 <img src="./Images/med1.png">
 
-Aqui podemos ver el registro en el explorador.
+Here we can see the registry in the explorer.
 
 [7nuexkNtPjejALaQjr4rxbkyZ6tMm5qE3BtRBbN17gTs](https://explorer.solana.com/address/7nuexkNtPjejALaQjr4rxbkyZ6tMm5qE3BtRBbN17gTs?cluster=devnet)
 
-Aqui lo que nos interesa son los Transaction Signatures, ya que en cada una de estas sigatures esta cifrada la localizacion en latitude y longitude del producto cada vez que alguien agrego un trace.
+Here what interests us are the Transaction Signatures, since in each of these signatures the location is encrypted in latitude and longitude of the product every time someone added a trace.
 
 <img src="./Images/trace.png">
 
-Aqui la data que almacenamos.
+Here the data we store.
 
 <img src="./Images/data.png">
 
-Las transactions signatures contienen los datos mandados a la blockchain, a travez de la API de Solana Explorer, nosotros somos capaces de obtener estos datos en codigo para añadirlosa nuestro programa.
+The transactions signatures contain the data sent to the blockchain, through the Solana Explorer API, we are able to obtain this data in code to add it to our program.
 
 - Signatures:
 
@@ -113,7 +113,7 @@ Las transactions signatures contienen los datos mandados a la blockchain, a trav
 
 <img src="./Images/sign2.png">
 
-Todo esto se agrego a nuestra API para comunicarse directamente con la pagina web.
+All of this was added to our API to communicate directly with the website.
 
 <img src="./Images/address.png">
 
@@ -124,72 +124,67 @@ Todo esto se agrego a nuestra API para comunicarse directamente con la pagina we
 
 ### Check product:
 
-Al presionar el boton aparecera un lector de QR, el cual es compatible con mobile y desktop.
+By pressing the button a QR reader will appear, which is compatible with mobile and desktop.
 
 <img src="./Images/qr.png">
 
-En la version mobile debido a que algunos celulares tienen como deafult la camara frontal, se agrego un selector de camara.
+In the mobile version, because some cell phones have the front camera as a deafult, a camera selector was added.
 
 <img src="./Images/mobile-qr.png" height="400px" >
 
-Una vez se ha hecho la lectura del producto, podremos ver la informacion de trace, siempre se mostrara en el mapa el lugar de la ultimo trace agregado, ademas de los datos de trace se mostrara informacion del producto.
+Once the product has been read, we can see the trace information, the place of the last added trace will always be shown on the map, in addition to the trace data, product information will be displayed.
 
 <img src="./Images/qr-product.png">
 
 ### Add Trace:
 
-La funcion de Add Trace solo esta habiliatada una vez se ha loggeado el intermediario que recibe la medicina.
+The Add Trace function is only enabled once the intermediary that receives the medicine has been logged in.
 
 <img src="./Images/logged.png">
 
-Puedes habilitar esta funcion mediante el siguiente user y password.
+You can enable this function through the following user and password.
 
     User:apolloprojectchain@gmail.com
     Password:toor
 
-Para agregar un trace, primero deberemos escanear un producto.
+To add a trace, we must first scan a product.
 
 <img src="./Images/qr-log.png">
 
-Los datos que veremos seran los mismos que en [Check product](#check-product) sin embargo podremos ver los datos del sensor en tiempo real, para ver las coondiciones del producto al recibirlo.
+The data that we will see will be the same as in [Check product] (# check-product), however we will be able to see the sensor data in real time, to see the conditions of the product upon receipt.
 
 <img src="./Images/iot.png">
 
-Las especificaciones del sensor IoT estan en la seccion [Device](#device).
+The specifications of the IoT sensor are in this section [Device](#device).
 
 ### Test:
 
-
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png">](https://www.youtube.com/watch?v=62LNl-Jql00)
 
 # Device:
 
-Para el dispositivo IoT utilizamos una Pycom Fipy Board, la cual tiene LTE, lo cual nos permite mantener una conectividad continua con AWS IoT.
+For the IoT device we use a Pycom Fipy Board, which has LTE, which allows us to maintain continuous connectivity with AWS IoT.
 
 https://pycom.io/product/fipy/
 
 <img src="./Images/pycom.png">
 
-A la board le colocamos a modo de shield los sensores para evitar desconexiones, ademas de una bateria y una case.
+To the board we place the sensors as a shield to avoid disconnections, in addition to a battery and a case.
 
 <img src="./Images/outsidecase.png">
 
-Todo lo colocamos en el interior de la case.
+We put everything inside the case.
 
 <img src="./Images/insidecase.png">
 
-Finalmente el device luce de la siguiente forma.
+Finally the device looks like this:
 
 <img src="./Image/../Images/devicefinal.png">
 
-Todos los datos que manda el device son recibidos en la plataforma de Pycom Pybytes y estas mandadas a AWS IoT mediante su integracion.
+All the data sent by the device is received in the Pycom Pybytes platform and is sent to AWS IoT through its integration.
 
 Video: Click on the image
 [<img src="./Images/banner-video.png">](https://youtu.be/gEZ4lpxPT-o)
 Sorry github does not allow embed videos.
 
-# Demo:
-
-Video: Click on the image
-[<img src="./Images/banner-video.png">](YTLINK)
-Sorry github does not allow embed videos.
 
