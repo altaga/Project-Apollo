@@ -19,14 +19,6 @@
 - [Device:](#device)
 - [Demo:](#demo)
 
-# Introduction:
-
-
-
-# Solution:
-
-
-
 # Diagrams:
 ## Software:
 
