@@ -47,6 +47,8 @@ Video HYPE!
 
 ## Our PoC for Provenance
 
+You can see extensive documentation of the build process in this part of our Repository: 
+
 
 # What's next for Apollo
 
