@@ -85,10 +85,24 @@ And here is our own made 4G tracker device with environmental Sensors:
 
 ### Business Model
 
-We plan on incorporating the same business model that Ubidots, AdafruitIO and other incumbents follow, with heavy inspiration also on how the Helium blockchain 
+We plan on incorporating the same business model that Ubidots, AdafruitIO and other incumbents follow, with heavy inspiration also on how the Helium blockchain and how it manages its device subscription: https://www.helium.com/
 
+Of course, Helium only works with longFi IoT devices that are connected into its own infrastructure, but nowadays most tracking, sensing and supply chain solutions are not really based on LoRa or LongFi but are 4G based and make use of other technologies such as WiFi and others, and that's the niche we will attack.
 
 ### Development and Launch
+
+Our future roadmap looks like this:
+
+<img src="https://i.ibb.co/02CwzLh/roadmap.png">
+
+
+We will accelerate our development and do a private alpha as we need to test this idea with several more devices and begin testing a prototipe of monetization. One of the characteristics that made the Helium network grow as much as it has is the incentives to keep the infrastructure, we intend to play also with that idea as this may turn into a big mesh network that can feed itself and provide value to all the parties that use the product.
+
+### Closing
+
+In order for IoT to take the next step and solve its problems of scalability and security, it needs solutions such as the one here presented. This solutions explores a niche that is very prevalent in the industry and will be for many years as the availability of developers that can join the two technologies is minuscule.
+
+Thank you and hopefully you liked the project!
 
 # Team
 
