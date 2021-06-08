@@ -52,6 +52,12 @@ Click to see the video:
 
 You can see extensive documentation of the build process in this part of our Repository: https://github.com/altaga/Project-Apollo/blob/main/Tech-Docs/README.md
 
+This is the architecture of the system:
+
+<img src="https://raw.githubusercontent.com/altaga/Project-Apollo/main/Tech-Docs/Images/plat.png">
+
+
+
 
 
 
