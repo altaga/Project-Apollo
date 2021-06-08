@@ -49,7 +49,7 @@ Apollo is a way to seamlessly connect IoT devices to the Solana blockchain, that
 
 Click to see the video: 
 
-[<img src="https://gonextpage.com/wp-content/uploads/2017/07/click-here-button.png">](https://www.youtube.com/watch?v=sUAdnfDavvE)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png">](https://www.youtube.com/watch?v=sUAdnfDavvE)
 
 
 ## Our PoC for Provenance
@@ -73,11 +73,11 @@ And here is our own made 4G tracker device with environmental Sensors:
 
 #### Check this video for our product DEMO:
 
-[<img src="https://gonextpage.com/wp-content/uploads/2017/07/click-here-button.png">](https://www.youtube.com/watch?v=62LNl-Jql00)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png">](https://www.youtube.com/watch?v=62LNl-Jql00)
 
 #### And this one for our Sensor demo:
 
-[<img src="https://gonextpage.com/wp-content/uploads/2017/07/click-here-button.png">](https://www.youtube.com/watch?v=msxZygN1YrA)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png">](https://www.youtube.com/watch?v=msxZygN1YrA)
 
 
 
