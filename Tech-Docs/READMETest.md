@@ -8,13 +8,13 @@
 
 # Testing:
 
-To test the platform you must enter from your cell phone to it.
+To test the platform you must enter from your cell phone.
 
 https://d28h6fr0bvs87o.cloudfront.net/landing
 
 Press the demo button.
 
-Inside the platform you will have to press the Check Product button!
+Inside the platform you will have to press the Check Product! button.
 
 <br>
 
@@ -25,7 +25,7 @@ Inside the platform you will have to press the Check Product button!
 <br>
 
 <div style="text-align:justify">
-The platform will ask you to access the camera to be able to scan the QR, you press Allow.
+The platform will ask you to access the camera to be able to scan the QR, press Allow.
 </div>
 
 <br>
@@ -144,7 +144,7 @@ At the bottom we can see the details of the product.
 <br>
 
 <div style="text-align:justify">
-If we press the hyperlink under Solana Explorer Link: we can enter the solana explorer directly to see all the records associated with the drug.
+If we press the hyperlink under Solana Explorer Link, we can enter the solana explorer directly to see all the records associated with the drug.
 </div>
 
 <br>
