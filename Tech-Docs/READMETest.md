@@ -2,21 +2,19 @@
 
 <img src="./Images/logo.png" width="1000">
 
-# Table of Contents:
+### You can follow this video while performing the instructions below:
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png">](https://www.youtube.com/watch?v=62LNl-Jql00)
 
-- [Project-Apollo](#project-apollo)
-- [Table of Contents:](#table-of-contents)
-- [Testing:](#testing)
 
 # Testing:
 
-Para probar la plataforma deberas entrar entrar desde tu celuar a ella.
+To test the platform you must enter from your cell phone to it.
 
 https://d28h6fr0bvs87o.cloudfront.net/landing
 
 Press the demo button.
 
-Dentro de la plataforma tendras que presionar el boton de Check Product!
+Inside the platform you will have to press the Check Product button!
 
 <br>
 
@@ -27,7 +25,7 @@ Dentro de la plataforma tendras que presionar el boton de Check Product!
 <br>
 
 <div style="text-align:justify">
-Te pedira la plataforma acceso a la camara para poder escanear los QR, le presionas Allow.
+The platform will ask you to access the camera to be able to scan the QR, you press Allow.
 </div>
 
 <br>
@@ -39,7 +37,7 @@ Te pedira la plataforma acceso a la camara para poder escanear los QR, le presio
 <br>
 
 <div style="text-align:justify">
-Ya que tiene acceso a las camaras, presiona el selector para elegia la camara correcta.
+Since you have access to the cameras, press the selector to choose the correct camera.
 </div>
 
 <br>
@@ -51,7 +49,7 @@ Ya que tiene acceso a las camaras, presiona el selector para elegia la camara co
 <br>
 
 <div style="text-align:justify">
-En este caso mi celular tiene 4 camaras, al seleccionar la camara 3, mostrara la camara posterior.
+In this case my cell phone has 4 cameras, when selecting camera 3, it will show the rear camera.
 </div>
 
 <br>
@@ -63,7 +61,7 @@ En este caso mi celular tiene 4 camaras, al seleccionar la camara 3, mostrara la
 <br>
 
 <div style="text-align:justify">
-Aqui podemos ver como cambio a la camara posterior.
+Here we can see how I change to the rear camera.
 </div>
 
 <br>
@@ -122,7 +120,7 @@ When scanning any of the products, we will be able to see its entire history, at
 <br>
 
 <div style="text-align:justify">
-Al presionar cada uno de los lugares el mapa mostara la ubicacion.
+By pressing each of the places the map will show the location.
 </div>
 
 <br>
@@ -134,7 +132,7 @@ Al presionar cada uno de los lugares el mapa mostara la ubicacion.
 <br>
 
 <div style="text-align:justify">
-En la parte inferior podremos ver los detalles del producto.
+At the bottom we can see the details of the product.
 </div>
 
 <br>
@@ -146,7 +144,7 @@ En la parte inferior podremos ver los detalles del producto.
 <br>
 
 <div style="text-align:justify">
-Si presionamos el hipervinculo debajo de Solana Explorer Link: poremos entrar directamente al explorer de solana para ver todos los regustros asiciados al medicamento.
+If we press the hyperlink under Solana Explorer Link: we can enter the solana explorer directly to see all the records associated with the drug.
 </div>
 
 <br>
@@ -158,6 +156,6 @@ Si presionamos el hipervinculo debajo de Solana Explorer Link: poremos entrar di
 <br>
 
 <div style="text-align:justify">
-Aqui un demo sin pausas de como realizar la prueba.
+
 </div>
 
