@@ -97,9 +97,6 @@ We plan on incorporating the same business model that
 [<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
 
 
-# Closing 
-
-
 # References
 
 https://www.lightreading.com/ossbss/verizons-4g-network-one-of-most-congested-in-world---analyst/d/d-id/767842
