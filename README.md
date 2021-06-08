@@ -45,5 +45,6 @@ Although the market currently has several services such as Ubidots, Sigfox, AWS 
 
 https://www.lightreading.com/ossbss/verizons-4g-network-one-of-most-congested-in-world---analyst/d/d-id/767842
 https://www.kajeet.net/resource/understanding-cat-m-and-the-role-of-data-limits-in-iot-connectivity/
-
+https://www.theguardian.com/science/2019/mar/11/fake-drugs-kill-more-than-250000-children-a-year-doctors-warn
+https://www.bbc.com/news/world-africa-51122898
 
