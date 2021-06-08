@@ -22,16 +22,28 @@ The internet of things has been associated with major cyberattacks, often involv
 
 <img src="https://specials-images.forbesimg.com/imageserve/1127637966/960x0.jpg?fit=scale" width=500>
 
-But the main problem is scalability. The two main technological solutions that are rolling right now two solve the problem of cengested 4G networks and low coverage of longFi are 5G and mesh networks, if we are gonna employ a blockchain, it has to be one with great speeds and easily scalable or it will not be able to function properly with these two technologies. 
+But the main problem is scalability. The two main technological solutions that are rolling right now two solve the problem of congested 4G networks and low coverage of longFi are 5G and mesh networks, if we are gonna employ a blockchain, it has to be one with great speeds and easily scalable or it will not be able to function properly with these two technologies. 
 
 
-Although the market currently has several services such as Ubidots, Sigfox, AWS IoT and quite a lot of incumbents that can connect IoT devices to the Internet, create great UI’s, sensor readings and so forth, It lacks a way or paid service to join this to blockchains. For the current services that can provide an IoT+Blockchain such as Azure and IBM cloud the entry barrier is way too high. We can  make an analogy of trying to do Domotics in the 80's or any Internet of things Devices where there were no cloud providers. That is the current scenario, to be able to do that you need  to be a very proficient developer (really have a team of them) and there is no documentation on how to do that anywhere at hand. 
+Although the market currently has several services such as Ubidots, Sigfox, AWS IoT and quite a lot of incumbents that can connect IoT devices to the Internet, create great UI’s, sensor readings and so forth, it lacks a way or paid service to join this to blockchains. For the current services that can provide an IoT+Blockchain such as Azure and IBM cloud the entry barrier is way too high. We can  make an analogy of trying to do Domotics in the 80's or any Internet of things Devices when there were no cloud providers. That is the current scenario, to be able to do that you need  to be a very proficient developer (really have a team of them) and there is no documentation on how to do that anywhere at hand. 
 
 #### As engineers we can see the NEED for that and the niche 
+
+## A problem for our PoC
+
+Globally, the trade in counterfeit pharmaceuticals is worth up to $200 Billion USD.  A surge in counterfeit and poor quality medicines means that 250,000 children a year die after receiving shoddy or outright fake drugs intended to treat malaria and pneumonia alone.
+
+<img src="https://i.guim.co.uk/img/media/20491572b80293361199ca2fc95e49dfd85e1f42/0_240_5157_3094/master/5157.jpg?width=620&quality=85&auto=format&fit=max&s=769b733a241ddf213f4e32a96bc01c87">
+
+
+#### This is a problem that can be tackled by the union of blockchain and IoT with immutable provenance and tracing solutions. Enter Apollo
+
 
 # Solution
 
 Apollo is a way to seamlessly connect IoT devices to the Solana blockchain, that provides extra services like provenance and tracing for supply chain applications.
+
+Video HYPE!
 
 ## Our PoC for Provenance
 
