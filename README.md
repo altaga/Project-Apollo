@@ -104,7 +104,7 @@ Of course, Helium only works with longFi IoT devices that are connected into its
 
 Our future roadmap looks like this:
 
-<img src="https://i.ibb.co/02CwzLh/roadmap.png">
+<img src="https://i.ibb.co/tKCP25R/roadmap.png">
 
 
 We will accelerate our development and do a private alpha as we need to test this idea with several more devices and begin testing a prototipe of monetization. One of the characteristics that made the Helium network grow as much as it has is the incentives to keep the infrastructure, we intend to play also with that idea as this may turn into a big mesh network that can feed itself and provide value to all the parties that use the product.
