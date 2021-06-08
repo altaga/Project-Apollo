@@ -47,7 +47,7 @@ Globally, the trade in counterfeit pharmaceuticals is worth up to $200 Billion U
 
 Apollo is a way to seamlessly connect IoT devices to the Solana blockchain, that provides extra services like provenance and tracing for supply chain applications.
 
-Click to see the video:
+Click to see the video: 
 
 
 ## Our PoC for Provenance
