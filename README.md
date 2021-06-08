@@ -8,6 +8,8 @@
 
 ### It includes a provenance service that allows supply chain participants to collaborate on a transparent and trusted data platform.
 
+<hr>
+
 #### Click here to watch our demo video:
 
 [<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=sUAdnfDavvE)
