@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://d28h6fr0bvs87o.cloudfront.net/landing) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=sUAdnfDavvE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://d28h6fr0bvs87o.cloudfront.net/landing) [<img src="https://img.shields.io/badge/View-Slides-red">](https://github.com/altaga/Project-Apollo/blob/main/Apollopresentation.pdf) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=sUAdnfDavvE)
 
 # Apollo Project
 
